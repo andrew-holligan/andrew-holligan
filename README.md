@@ -7,8 +7,8 @@
   #### Study 🎓
   I'm currently a CS student at the ***University of Glasgow***
   
-  #### Hobbies 🏃🚴🏋️🎮
-  I love ***running***, ***cycling***, going to the ***gym***, and playing ***video games***!
+  #### Hobbies 🏃🚴🏋️
+  I love ***running***, ***cycling***, going to the ***gym***!
   
   ## Languages 🧑‍💻
   <div>
